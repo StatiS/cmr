@@ -5,7 +5,7 @@ import com.vaadin.ui.VerticalLayout;
 import com.vaadin.ui.themes.ValoTheme;
 
 /**
- * Created by StatiS on 03/02/2017.
+ * Created by Jan Boznar on 03/02/2017.
  */
 public class ConclusionsLayout extends VerticalLayout {
     private Label layoutName;
