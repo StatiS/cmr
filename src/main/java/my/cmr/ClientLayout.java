@@ -13,7 +13,7 @@ import com.vaadin.ui.themes.ValoTheme;
 import java.sql.SQLException;
 
 /**
- * Created by StatiS on 02/02/2017.
+ * Created by Jan Boznar on 02/02/2017.
  */
 public class ClientLayout extends VerticalLayout{
     private MyUI myUI;
