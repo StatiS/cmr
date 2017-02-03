@@ -1,4 +1,4 @@
-Spletna aplikacija z vaadin frameworkom in hsqldb 2.3.4 bazo
+Spletna aplikacija z vaadin frameworkom in hsqldb 2.3.4 bazo servlet je jetty (package jetty:run)
 
 -Narejen prikaz strank in zgodovine njihovih sestankov
 -Hitro iskanje med strankami
