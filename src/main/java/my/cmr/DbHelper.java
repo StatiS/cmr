@@ -7,7 +7,7 @@ import com.vaadin.data.util.sqlcontainer.query.TableQuery;
 import java.sql.*;
 
 /**
- * Created by StatiS on 01/02/2017.
+ * Created by Jan Boznar on 01/02/2017.
  */
 public class DbHelper {
     private SimpleJDBCConnectionPool connectionPool;
