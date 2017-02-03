@@ -8,7 +8,7 @@ import com.vaadin.ui.TextField;
 import com.vaadin.ui.themes.ValoTheme;
 
 /**
- * Created by StatiS on 03/02/2017.
+ * Created by Jan Boznar on 03/02/2017.
  */
 public class EditableLabel extends CssLayout{
     private Label label = new Label();
